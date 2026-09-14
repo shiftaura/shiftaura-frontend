@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/public/(.*)",
-      "destination": "https://your-backend-api-url.com"
+      "destination": "http://localhost:5000/api"
     },
     {
       "source": "/(.*)",
