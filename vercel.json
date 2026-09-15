@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/public/(.*)",
-      "destination": " https://shiftaura-backend.onrender.com"
+      "destination": " https://shiftaura-backend.onrender.com/api"
     },
     {
       "source": "/(.*)",
